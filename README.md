@@ -22,9 +22,9 @@ The goal was to identify which services most strongly correlate with satisfactio
 ## 📁 Repository Structure
 
 ```
-├── README.md          # All SQL queries used for exploration and analysis
-├── dashboard2.png       # Power BI dashboard file
-└── queries2.sql
+├── README.md          
+├── dashboard2.png       # Power BI dashboard
+└── queries2.sql         # All SQL queries used for exploration and analysis
 ```
 
 ---
