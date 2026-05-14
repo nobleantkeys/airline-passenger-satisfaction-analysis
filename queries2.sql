@@ -12,7 +12,6 @@ GROUP BY Satisfaction
 
 
 --======================================================
-DESKTOP-7G6QA5U\SQLEXPRESS
 
 --Overall Satisfaction for Business and Economy
 
